@@ -2,7 +2,7 @@
 
 ![hero](https://github.com/anav5704/Portfolio/blob/main/docs/portfolio.png)
 
-This is a simple portfolio website I made in the first few months of me getting into web development. It turned out quite nice as it has some nice animations here and there. It is hosted on Netlify and houses my other projects form the vanilla HTML, CSS, JS days.
+This is a simple portfolio website I made in the first few months of me getting into web development. It turned out quite nice as it has some nice animations here and there. It is hosted on Netlify and houses my other projects from the vanilla HTML, CSS, and JS days.
 
 ## Technologies Used
 
